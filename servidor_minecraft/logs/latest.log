@@ -1,120 +1,17 @@
-[23:18:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:18:23] [ServerMain/INFO]: Loaded 1407 recipes
-[23:18:23] [ServerMain/INFO]: Loaded 1520 advancements
-[23:18:23] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[23:18:23] [Server thread/INFO]: Loading properties
-[23:18:23] [Server thread/INFO]: Default game type: SURVIVAL
-[23:18:23] [Server thread/INFO]: Generating keypair
-[23:18:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:18:23] [Server thread/INFO]: Using epoll channel type
-[23:18:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:18:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:18:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:18:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:18:23] [Server thread/INFO]: Preparing level "world"
-[23:18:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:18:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:18:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:18:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:18:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:18:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:18:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:18:26] [Server thread/INFO]: Time elapsed: 2637 ms
-[23:18:26] [Server thread/INFO]: Done (2.886s)! For help, type "help"
-[23:18:26] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:18:26] [Server thread/INFO]: home/codespace/.python/current/bin/python /workspaces/mcmcmc2/msx.py<--[HERE]
-[23:18:38] [Server thread/INFO]: [Not Secure] [Server] ola
-[23:19:23] [Server thread/INFO]: ___MR_BANANA___[/127.80.255.4:38023] logged in with entity id 6 at (1709.5, 86.0, 182.5)
-[23:19:23] [Server thread/INFO]: ___MR_BANANA___ joined the game
-[23:23:39] [Server thread/INFO]: ___MR_BANANA___ lost connection: Timed out
-[23:23:39] [Server thread/INFO]: ___MR_BANANA___ left the game
-[23:23:55] [Server thread/INFO]: ___MR_BANANA___[/127.80.255.4:43833] logged in with entity id 1336 at (1662.5642827687368, 69.9375, 127.61467714565332)
-[23:23:55] [Server thread/INFO]: ___MR_BANANA___ joined the game
-[23:41:17] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:42:24] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:42:29] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:43:20] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:43:25] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:43:57] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:44:21] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:44:29] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:44:35] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:44:40] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:44:52] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:44:57] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:45:12] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:45:18] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:45:38] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:45:43] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:46:03] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:46:12] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:46:19] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:46:25] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:46:33] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:46:38] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:46:56] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1722.576000, 314.000000, 172.482000]
-[23:47:01] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:47:17] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:47:23] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:47:41] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:47:46] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:48:07] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:48:12] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:48:27] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:48:32] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:48:48] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:49:00] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:49:12] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:49:19] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:49:24] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:49:44] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:49:57] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:50:02] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:50:20] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:50:25] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:50:48] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:50:55] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:51:00] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:51:15] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:51:22] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:51:27] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:51:47] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:51:53] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:52:08] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:52:14] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:52:31] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:52:36] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:52:55] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:53:00] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:53:21] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:53:26] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:53:43] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:53:53] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:54:02] [Server thread/INFO]: ___MR_BANANA___ fell off a ladder
-[23:54:31] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:54:36] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:54:51] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:54:58] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:55:04] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:55:10] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:55:26] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:55:32] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:55:39] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:55:45] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:55:51] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:55:57] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:56:36] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:56:42] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:56:49] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:56:55] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:57:06] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:57:16] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
-[23:57:22] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:57:36] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 350.000000, 172.482000]
-[23:57:49] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 450.000000, 172.482000]
-[23:57:56] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:58:18] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 550.000000, 172.482000]
-[23:58:26] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:58:48] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 550.000000, 172.482000]
-[23:58:57] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
-[23:59:19] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 600.000000, 172.482000]
+[00:00:20] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
+[00:00:25] [Server thread/INFO]: ___MR_BANANA___ fell from a high place
+[00:00:40] [Server thread/INFO]: [___MR_BANANA___: Teleported ___MR_BANANA___ to 1721.576000, 314.000000, 172.482000]
+[00:00:49] [Server thread/INFO]: ___MR_BANANA___ lost connection: Disconnected
+[00:00:49] [Server thread/INFO]: ___MR_BANANA___ left the game
+[00:01:49] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:08:49] [Server thread/INFO]: Stopping the server
+[00:08:49] [Server thread/INFO]: Stopping server
+[00:08:49] [Server thread/INFO]: Saving players
+[00:08:49] [Server thread/INFO]: Saving worlds
+[00:08:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:08:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:08:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:08:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:08:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:08:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:08:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
